@@ -1,5 +1,10 @@
 # CryptoClustering
 
+![image](https://github.com/imanmalih/CryptoClustering/assets/128860080/81fbf33f-bec8-44fd-a370-6d9fec98750a)
+
+
+
+
 ## Overview:
  You’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
