@@ -19,12 +19,17 @@
 
 ## Conclusion:
 
-![image](https://github.com/imanmalih/CryptoClustering/assets/128860080/f6071cd0-1547-42ca-9535-1f5e38c26bb9)
+<img width="787" alt="Screenshot 2023-10-14 at 10 09 52 AM" src="https://github.com/imanmalih/CryptoClustering/assets/128860080/0c9363bf-ef75-4f99-91e7-2717b58775bf">
+
+<img width="956" alt="Screenshot 2023-10-14 at 10 10 14 AM" src="https://github.com/imanmalih/CryptoClustering/assets/128860080/b06bd52e-268a-4d28-8023-f0663dbf244a">
+
+<img width="830" alt="Screenshot 2023-10-14 at 10 10 41 AM" src="https://github.com/imanmalih/CryptoClustering/assets/128860080/63c1c1db-ccd4-462c-9549-41657cfae57a">
+
+<img width="750" alt="Screenshot 2023-10-14 at 10 11 01 AM" src="https://github.com/imanmalih/CryptoClustering/assets/128860080/a6dcda2d-3243-46c3-bcf5-7e321a33ec60">
 
 
-
-![image](https://github.com/imanmalih/CryptoClustering/assets/128860080/58b82c05-8922-418c-8a22-95a54f8831fb)
-
+## Disclaimer:
+I was assissted by askBCS and Google. 
 
 
 
